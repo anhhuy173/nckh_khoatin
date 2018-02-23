@@ -1,4 +1,4 @@
-package com.huypham.demo4everthing;
+package com.huypham.demo4everything;
 
 import org.junit.Test;
 

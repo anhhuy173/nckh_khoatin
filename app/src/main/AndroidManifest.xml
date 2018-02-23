@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.huypham.demo4everthing">
+    package="com.huypham.demo4everything">
 
     <application
         android:allowBackup="true"

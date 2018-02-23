@@ -1,4 +1,4 @@
-package com.huypham.demo4everthing;
+package com.huypham.demo4everything;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.huypham.demo4everthing", appContext.getPackageName());
+        assertEquals("com.huypham.demo4everything", appContext.getPackageName());
     }
 }
