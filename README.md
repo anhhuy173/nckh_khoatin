@@ -1,2 +1,2 @@
-# nckh_khoatin
-Nhóm Android - Chim sẻ xanh
+# demo4everthing
+If you want to leran more about a certain knowledge, just DO the demo =))
